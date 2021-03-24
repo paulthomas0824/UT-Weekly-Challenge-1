@@ -8,3 +8,5 @@ In this Challenge, a marketing agency has hired you to refactor an existing site
 
 
 Here is the live URL to website: https://paulthomas0824.github.io/UT-Weekly-Challenge-1/
+
+![image](https://user-images.githubusercontent.com/21247085/112238162-15531b00-8c12-11eb-85b3-2a809de8a5b8.png)
